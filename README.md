@@ -1,4 +1,4 @@
-<H1>Project Title: Java Marks Calculator</H1>
+<H1>Project Title: Grade Calculator</H1>
 
 <h2>Description:</h2>
 This Java application calculates the average marks and grades for individual students and the entire class. 
